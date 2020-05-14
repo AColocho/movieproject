@@ -9,10 +9,10 @@ The process to clean the data is straight forward. Turn numbers that are in form
 
 ## Analysis
 This analysis is seeking to answer the following questions:  
-**What characteristics do movies that revenue average or better than average have?**
-    1. What rating?
-    2. What genre?
-**What specific attributes can be observed in the top 10 movies?**
+**What characteristics do movies that revenue average or better than average have?**  
+1. What rating?  
+2. What genre?  
+3. What specific attributes can be observed in the top 10 movies?
 
 To futher clean the data, the assumption that people will go watch a movie with higher ratings was made. Therfore, we are only looking at movies that have a 50% rating or higher. 
 
