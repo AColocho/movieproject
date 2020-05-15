@@ -43,7 +43,7 @@ Now, the rating was very important. Most movies had a PG-13 rating, followed by 
 
 ![Chart of all the data](images/rating.png)  
   
-However, the PG-13 rating was by far the most profitable. In 2019, PG-13 movies made more money than the other ratings combined for the same year. 
+However, the PG-13 rating was by far the most profitable. In 2019, PG-13 movies made more money than the other ratings for the same year. 
 
 ![Chart of all the data](images/pivot.png)  
   
